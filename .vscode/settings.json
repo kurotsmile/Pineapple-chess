@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Tomoku.sln"
+    "dotnet.defaultSolution": "Pineapple chess.sln"
 }
